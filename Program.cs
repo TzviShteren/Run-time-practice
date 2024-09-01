@@ -35,19 +35,19 @@
         {
             for (int i = 0; i < ints.Length; i++)
             {
-                int minNme = 0;
+                int minIndex = 0;
                 for (int j = i + 1; j < ints.Length; j++)
                 {
-                    if (ints[j] < ints[minNme])
+                    if (ints[j] < ints[minIndex])
                     {
-                        ints[minNme] = ints[j];
+                        ints[minIndex] = ints[j];
                     }
                 }
-                if (ints[i] != minNme) 
+                if (ints[i] != minIndex) 
                 {
                     int tamp = ints[i];
-                    ints[i] = ints[minNme];
-                    ints[minNme] = tamp;
+                    ints[i] = ints[minIndex];
+                    ints[minIndex] = tamp;
                 }
             }
         }
