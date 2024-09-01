@@ -1,13 +1,21 @@
-﻿namespace MyApp
+﻿using ConsoleApp0109;
+
+namespace MyApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var values = new MyLinkedList<int>(); 
+            values.Push(1);
+            values.Push(2);
+            values.Push(3);
+            values.Push(4);
+            values.Push(5);
+            Console.WriteLine(values.ToString());
+            Console.WriteLine(values.All(x => x > 0));
+            Console.WriteLine(values.All(x => x > 3));
         }
-
-
 
         static public void BabelSors(int[] ints)
         {

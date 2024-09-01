@@ -1,0 +1,15 @@
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\bin\Debug\net8.0\ConsoleApp0109.exe
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\bin\Debug\net8.0\ConsoleApp0109.deps.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\bin\Debug\net8.0\ConsoleApp0109.runtimeconfig.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\bin\Debug\net8.0\ConsoleApp0109.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\bin\Debug\net8.0\ConsoleApp0109.pdb
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.AssemblyInfoInputs.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.AssemblyInfo.cs
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.csproj.CoreCompileInputs.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.sourcelink.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\refint\ConsoleApp0109.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.pdb
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ConsoleApp0109.genruntimeconfig.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\ConsoleApp0307\ConsoleApp0109\obj\Debug\net8.0\ref\ConsoleApp0109.dll
