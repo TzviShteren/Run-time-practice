@@ -9,19 +9,22 @@
 
         static public void BabelSors(int[] ints)
         {
-            bool isDon = false;
-            for (int i = 0; i < ints.Length - 1; i++)
+            for (int j = ints.Length - 1; j < 0; j--)
             {
-                if (ints[i] > ints[i + 1])
+                bool isDon = false;
+                for (int i = 0; i < j; i++)
                 {
-                    int tamp = ints[i];
-                    ints[i] = ints[i + 1];
-                    ints[i + 1] = tamp;
-                    isDon = true;
-                }
-                if(!isDon)
-                {
-                    break;
+                    if (ints[i] > ints[i + 1])
+                    {
+                        int tamp = ints[i];
+                        ints[i] = ints[i + 1];
+                        ints[i + 1] = tamp;
+                        isDon = true;
+                    }
+                    if (!isDon)
+                    {
+                        break;
+                    }
                 }
             }
         }
